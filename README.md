@@ -1,4 +1,4 @@
-Absolutely — here’s a **professionally drafted, polished README introduction** using your exact content, just elevated in tone and flow while keeping it clear and recruiter-friendly:
+
 
 ```markdown
 Hi, I’m **Hosbert**, a DevOps Engineer with a strong focus on building scalable, reliable, and highly automated systems.  
